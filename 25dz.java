@@ -8,7 +8,7 @@ public class Main {
 		double gm = 3.7;
 		int mz = 1;
 		int tz = 100;
-		int tm;
+		double tm;
 		System.out.println("Какая масса груза на марсе?");
 		Scanner a = new Scanner(System.in);
 		int mm = a.nextInt();
